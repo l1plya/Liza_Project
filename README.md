@@ -6,8 +6,8 @@
 
 1. Клонируйте репозиторий:
     ```sh
-    git clone https://github.com/l1plya/Liza-Project
-    cd Liza-Project
+    git clone https://github.com/l1plya/Liza_Project
+    cd Liza_Project
     ```
 
 2. Постройте и запустите контейнеры с помощью Docker Compose:
